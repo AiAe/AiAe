@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [Quaver Website](https://github.com/Quaver/Quaver.Website)
+- 📫 How to reach me: AiAe#7847
+
 <!--
 **AiAe/AiAe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
