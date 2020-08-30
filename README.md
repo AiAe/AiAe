@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Quaver Website](https://github.com/Quaver/Quaver.Website)
+- 🔭 Currently working on [Quaver Website](https://github.com/Quaver/Quaver.Website)
 - 📫 How to reach me: AiAe#7847
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=aiae&show_icons=true&theme=dark)
